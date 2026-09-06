@@ -1,0 +1,9 @@
+{
+  "weights_path": "D:\\models\\drone2ground\\visible\\yolo11m_v1_0_drone2ground.pt",
+  "conf": 0.4,
+  "iou": 0.45,
+  "agnostic_nms": false,
+  "imgsz": null,
+  "device": null,
+  "verbose": false
+}

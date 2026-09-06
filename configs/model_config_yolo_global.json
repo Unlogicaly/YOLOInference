@@ -1,0 +1,9 @@
+{
+  "weights_path": "D:\\models\\drone2ground\\visible\\yolo26m_visible_v1_1.pt",
+  "conf": 0.2,
+  "iou": 0.45,
+  "agnostic_nms": false,
+  "imgsz": [1080, 1920],
+  "device": null,
+  "verbose": false
+}

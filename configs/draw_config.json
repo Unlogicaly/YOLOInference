@@ -1,0 +1,22 @@
+{
+  "thickness": 2,
+  "class_colors": {
+    "0": [0, 255, 255],
+    "1": [255, 0, 0]
+  },
+  "default_color": [0, 255, 255],
+  "box_mode": "corners",
+  "corner_style": {
+    "min_line_length": 3,
+    "max_line_length": 25,
+    "min_box_size": 10,
+    "max_box_size": 100,
+    "line_width": 2
+  },
+  "draw_class_name": false,
+  "draw_confidence": false,
+  "font_scale": 0.5,
+  "font_thickness": 1,
+  "text_padding": 4,
+  "text_background": true
+}
